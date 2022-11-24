@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+   font-family: 'Lato', sans-serif;
+}
+
+.container{
+   text-align: center;
+}
+
+small{
+   color: black;
+}
+
+h1{
+   font-weight: bolder;
+   font-size: 2.2rem;
+}
+
+h2{
+   font-size: 2rem;
+}
+
+button{
+   cursor: pointer;
+   font-size: 1rem;
+   margin: 0px 6px;
+}

@@ -1,0 +1,4 @@
+.dockeriginore
+Dockerfile
+node_modules
+.vscode
